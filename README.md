@@ -41,7 +41,7 @@ iTunes 音乐库分析工具，2017年底看见大家都在晒音乐记录而产
 <img alt="C++" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="CLI" src="https://img.shields.io/badge/platform-CLI-000000.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
 一个进度条工具，用于记录和查看一些事（例如一个年度）的时间进度，用来学习 C++ 和数据结构。有以此为基础制作 iOS 应用的想法。
 
-### [TungShing-for-Coder](https://github.com/lucka-me/TungShing-for-Coder)
+### [TungShing-core](https://github.com/lucka-me/TungShing-core)
 <img alt="C" src="https://img.shields.io/badge/lang-C-555555.svg"/> <img alt="Swift" src="https://img.shields.io/badge/lang-Swift-fdab50.svg"/> <img alt="CLI" src="https://img.shields.io/badge/platform-CLI-000000.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
 一个程序员老黄历，用来学习 C 语言和 Swift。有以此为基础制作 iOS 应用的想法。
 
