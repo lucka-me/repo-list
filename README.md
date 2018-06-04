@@ -32,8 +32,20 @@
 
 ## 系列
 同属一个大项目的系列仓库。
+
+### Progress
+一个进度条工具，用于记录和查看一些事（例如一个年度）的时间进度。
+
+#### [progress-C](https://github.com/lucka-me/progress-C)
+<img alt="C++" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="CLI" src="https://img.shields.io/badge/platform-CLI-000000.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
+用来学习 C++ 和数据结构而编写的程序。
+
+#### [progress-iOS](https://github.com/lucka-me/progress-iOS)
+<img alt="Swift" src="https://img.shields.io/badge/lang-Swift-fdab50.svg"/> <img alt="iOS" src="https://img.shields.io/badge/platform-iOS-aaafaf.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
+iOS 版，我的第二个 iOS App，学习了动态列表和 CoreData 的使用，基本功能已经实现，但仍未完成。
+
 ### TungShing
-程序员老黄历，用来学习 C 语言和 Swift。之后利用核心代码学习制作了第一个 iOS App。
+程序员老黄历，用来学习 C 语言和 Swift，之后利用核心代码学习制作了第一个 iOS App。
 
 #### [TungShing-core](https://github.com/lucka-me/TungShing-core)
 <img alt="C" src="https://img.shields.io/badge/lang-C-555555.svg"/> <img alt="Swift" src="https://img.shields.io/badge/lang-Swift-fdab50.svg"/> <img alt="CLI" src="https://img.shields.io/badge/platform-CLI-000000.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
@@ -50,10 +62,6 @@ iOS 版，我的第一个 iOS App，问题很多，希望以后可以重做一�
 ### [LiAna](https://github.com/lucka-me/LiAna)
 <img alt="Python" src="https://img.shields.io/badge/lang-Python-3873a3.svg"/> <img alt="CLI" src="https://img.shields.io/badge/platform-CLI-000000.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
 iTunes 音乐库分析工具，2017年底看见大家都在晒音乐记录而产生的想法。有以此为基础制作 macOS 图形应用的想法。
-
-### [progress-C](https://github.com/lucka-me/progress-C)
-<img alt="C++" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="CLI" src="https://img.shields.io/badge/platform-CLI-000000.svg"/> <img alt="Shelved" src="https://img.shields.io/badge/statue-shelved-orange.svg"/>  
-一个进度条工具，用于记录和查看一些事（例如一个年度）的时间进度，用来学习 C++ 和数据结构。有以此为基础制作 iOS 应用的想法。
 
 ## 放弃
 也都是为了学习编程语言而一时兴起编写的一些小东西，但不会再有实质上的更新。
