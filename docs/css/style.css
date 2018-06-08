@@ -1,0 +1,125 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    margin: 12px;
+    padding: 15px;
+}
+
+h2.f4 {
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #004D85;
+}
+
+.main-box {
+    display: flex;
+    flex: initial;
+    flex-direction: column;
+    align-items: center;
+    max-width: 750px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.avatar-box {
+    width: 100%;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.avatar-des-left {
+    font-family: 'Sunflower', sans-serif;
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding-right: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.avatar-des-right {
+    font-family: 'Sunflower', sans-serif;
+    font-size: 20px;
+    width: 100%;
+    padding-left: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+img.avatar {
+    border-radius:50%;
+    padding: 3px;
+    border: 1px solid #CCC;
+}
+
+img.avatar:hover {
+    box-shadow: 0px 0px 4px #CCC;
+}
+
+h2.repo-title {
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: normal;
+    margin: 2px;
+}
+
+.repo-box {
+    width: 100%;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #CCC;
+    display: flex;
+    align-items: center;
+}
+
+.repo-box:hover {
+    box-shadow: 0px 0px 4px #CCC;
+}
+
+.repo-des-box {
+    width: 100%;
+    padding-left: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.repo-info-box {
+    color: #777;
+    margin: 2px;
+}
+
+img.repo-info {
+    margin-right: 8px;
+}
+
+.repo-des {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #333;
+    margin: 2px;
+}
