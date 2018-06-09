@@ -22,16 +22,23 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="Browser" src="https://img.shields.io/badge/platform-MFC-137AD4.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 2017-2018学年第二学习计算机制图学实习成果，一个基于 MFC 的地图显示软件，有格网索引功能。
 
-### [PatroLine](https://github.com/lucka-me/PatroLine)
-<img alt="Kotlin" src="https://img.shields.io/badge/lang-Kotlin-ef8e3f.svg"/> <img alt="Android" src="https://img.shields.io/badge/platform-Android-A4C639.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
-2017年底参与的大学生创新创业项目的作品，一个基于 Android 平台的巡线软件。鉴于评价较好，计划继续开发。
-
 ### [toolkit](https://github.com/lucka-me/toolkit)
 <img alt="Multi" src="https://img.shields.io/badge/lang-Multi-7f7f7f.svg"/> <img alt="Multi" src="https://img.shields.io/badge/platform-Multi-7f7f7f.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 工具箱，一些简单的工具程序。一些近期的小项目如 [LiAna](#liana) 和 [ISODATA-python](#isodata-python) 也是从这里诞生和分离成独立仓库的。
 
 ## 系列
 同属一个大项目的系列仓库。
+
+### Patroute
+2017年底开始参与的大学生创新创业项目的作品，一个基于 Android 平台的巡线软件。
+
+#### [Patroute-android](https://github.com/lucka-me/Patroute-android)
+<img alt="Kotlin" src="https://img.shields.io/badge/lang-Kotlin-ef8e3f.svg"/> <img alt="Android" src="https://img.shields.io/badge/platform-Android-A4C639.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
+Android 客户端，我的第一个 Android App。
+
+#### [Patroute-web](https://github.com/lucka-me/Patroute-web)
+<img alt="Multi" src="https://img.shields.io/badge/lang-Multi-7f7f7f.svg"/> <img alt="Multi" src="https://img.shields.io/badge/platform-Multi-7f7f7f.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
+服务器端工具，包括（测试用）FTP 服务器、任务制作工具等。
 
 ### Progress
 一个进度条工具，用于记录和查看一些事（例如一个年度）的时间进度。
