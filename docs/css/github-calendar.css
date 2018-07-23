@@ -126,7 +126,7 @@ h2.f4.text-normal.mb-3 {
 
 /* Hide the calendar if the screen is too small */
 @media screen and (max-width: 750px) {
-    .mb-5.border.border-gray-dark.rounded-1.py-2 {
+    .graph-before-highlights {
         display: none !important;
     }
     .calendar {

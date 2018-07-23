@@ -7,7 +7,7 @@
 近半年来有实质更新，并且计划继续维护和更新的仓库。
 
 ### [DeMap](https://github.com/lucka-me/DeMap)
-<img alt="JavaScript" src="https://img.shields.io/badge/lang-JavaScript-f0df65.svg"/> <img alt="MFC" src="https://img.shields.io/badge/platform-browser-lightgray.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
+<img alt="JavaScript" src="https://img.shields.io/badge/lang-JavaScript-f0df65.svg"/> <img alt="Browser" src="https://img.shields.io/badge/platform-browser-lightgray.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 在地图上生成 Delaunay 三角网并用现实中的高程为三角网填色，也学习了 HTML 和 CSS 的基础知识。后来作为 WebGIS、LBS 课程作业而做了一些修改。
 
 ### [DrawDemo](https://github.com/lucka-me/DrawDemo)
@@ -22,9 +22,17 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="Browser" src="https://img.shields.io/badge/platform-MFC-137AD4.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 2017-2018学年第二学习计算机制图学实习成果，一个基于 MFC 的地图显示软件，有格网索引功能。
 
+### [PowerMonitor-CLI](https://github.com/lucka-me/PowerMonitor-CLI)
+<img alt="C++" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="Platform" src="https://img.shields.io/badge/platform-Windows_CLI-000000.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
+学习和验证性质的程序，用来学习调用第三方 DLL 接口，调用 Intel Power Gadget API 来监测 CPU 温度。
+
 ### [toolkit](https://github.com/lucka-me/toolkit)
 <img alt="Multi" src="https://img.shields.io/badge/lang-Multi-7f7f7f.svg"/> <img alt="Multi" src="https://img.shields.io/badge/platform-Multi-7f7f7f.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 工具箱，一些简单的工具程序。一些近期的小项目如 [LiAna](#liana) 和 [ISODATA-python](#isodata-python) 也是从这里诞生和分离成独立仓库的。
+
+### [Wallmapper](https://github.com/lucka-me/Wallmapper)
+<img alt="JavaScript" src="https://img.shields.io/badge/lang-JavaScript-f0df65.svg"/> <img alt="Browser" src="https://img.shields.io/badge/platform-browser-lightgray.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
+将地图制作成壁纸的网页应用。
 
 ## 系列
 同属一个大项目的系列仓库。
