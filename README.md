@@ -26,6 +26,10 @@
 <img alt="C++" src="https://img.shields.io/badge/lang-C++-f14e7e.svg"/> <img alt="Platform" src="https://img.shields.io/badge/platform-Windows_CLI-000000.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 学习和验证性质的程序，用来学习调用第三方 DLL 接口，调用 Intel Power Gadget API 来监测 CPU 温度。
 
+### [RoundO-android](https://github.com/lucka-me/RoundO-android)
+<img alt="Kotlin" src="https://img.shields.io/badge/lang-Kotlin-ef8e3f.svg"/> <img alt="Android" src="https://img.shields.io/badge/platform-Android-A4C639.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
+参加比赛的作品，一个定向越野 Android 应用。
+
 ### [toolkit](https://github.com/lucka-me/toolkit)
 <img alt="Multi" src="https://img.shields.io/badge/lang-Multi-7f7f7f.svg"/> <img alt="Multi" src="https://img.shields.io/badge/platform-Multi-7f7f7f.svg"/> <img alt="Active" src="https://img.shields.io/badge/statue-active-brightgreen.svg"/>  
 工具箱，一些简单的工具程序。一些近期的小项目如 [LiAna](#liana) 和 [ISODATA-python](#isodata-python) 也是从这里诞生和分离成独立仓库的。

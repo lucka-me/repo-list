@@ -126,7 +126,7 @@ h2.f4.text-normal.mb-3 {
 
 /* Hide the calendar if the screen is too small */
 @media screen and (max-width: 750px) {
-    .graph-before-highlights {
+    .graph-before-activity-overview {
         display: none !important;
     }
     .calendar {
